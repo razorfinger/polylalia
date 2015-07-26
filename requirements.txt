@@ -1,0 +1,1 @@
+yandex.translate==0.3.5
