@@ -6,8 +6,8 @@ Polylalia attempts anonymity by running a body of text through the
 Yandex translation engine multiple times, ending up with a similar yet
 somewhat stilted result.
 
-Think of Polylalia as a script that makes Yandex play [Chinese
-whispers](https://en.wikipedia.org/wiki/Chinese_whispers)
+Think of Polylalia as a script that makes Yandex play [telephone
+game](https://en.wikipedia.org/wiki/Chinese_whispers)
 with itself and gives you the result. Polylalia only works on plaintext
 and is modular, so you can `import polylalia` and use the `Polylalia`
 class in your own programs.
